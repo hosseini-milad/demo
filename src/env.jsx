@@ -1,13 +1,9 @@
 const env={
     //siteApi:'http://localhost:4000/api',
-    //siteApi:'https://orderadmin.deleves.com/api',
-    //siteApi:'https://mgmpanel.deleves.com/api',
-    siteApi:'https://admin.mgmlens.com/api',
+    siteApi:'https://demoadmin.dkmehr.com/api',
     
     //siteApiUrl:'http://localhost:4000',
-    //siteApiUrl:'https://orderadmin.deleves.com',
-    //siteApiUrl:'https://mgmpanel.deleves.com',
-    siteApiUrl:'https://admin.mgmlens.com',
+    siteApiUrl:'https://demoadmin.dkmehr.com',
  
     vapidKey:"BLJqoTFEFUUMH8A18rChn3C5J3T2YcORJI4XDVH56IBCgqymaUV5th0ScSYU1Lel0qFgOXyVWcH1GSsUeD4V9A8",
     loader:<img className="imgLoader" src="/img/loaderMGM.gif"/>,
