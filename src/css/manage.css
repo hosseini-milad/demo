@@ -1,0 +1,26 @@
+.orderTable input{
+    width: inherit;
+    border:none;
+    background-color: transparent;
+    text-align: center;
+}
+.orderTableInput{
+    /*border:1px solid silver !important;*/
+    background-color: transparent !important;
+    border-bottom: 3px solid var(--main-color) !important;
+    height: 35px !important;
+}
+.orderTable td{
+    position: relative;
+    max-width: 150px;
+}
+.optionHolder{
+    position: absolute;
+    top:30px;
+    left:0;
+    background-color: #fff;
+}
+.optionHolder ul{
+    padding: 15px;
+    list-style: none;
+}

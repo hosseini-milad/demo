@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "188030944983",
+    "firebase_url": "https://serviceadvisor.firebaseio.com",
+    "project_id": "serviceadvisor",
+    "storage_bucket": "serviceadvisor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188030944983:web:0212cbe4ca59e9d057d292",
+        "android_client_info": {
+          "package_name": "com.android.serviceadvisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188030944983-92f2n0ld5eu2acat4t7sgiit69h44rkm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.serviceadvisor",
+            "certificate_hash": "6e074fdded3276e3cf0878d6865435bd164b9d42"
+          }
+        },
+        {
+          "client_id": "188030944983-3mvu8aorg0p4q0igccv2e4dfr6dl96km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs700Uc7hgS3VvzY76uwfm1jhopw6NVuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188030944983-3mvu8aorg0p4q0igccv2e4dfr6dl96km.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    
+  ],
+  "configuration_version": "1"
+}

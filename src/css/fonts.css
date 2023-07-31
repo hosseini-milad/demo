@@ -1,0 +1,107 @@
+@font-face {
+    font-family: iran;
+    src: url("fonts/IRANSansWeb.eot")format("embedded-opentype");
+    src: url("fonts/IRANSansWeb.eot")format("embedded-opentype"),
+    url("fonts/IRANSansWeb.ttf")format("truetype"),
+    url("fonts/IRANSansWeb.woff")format("woff"),
+    url("fonts/IRANSansWeb.woff2")format("woff2");
+}
+
+@font-face{font-family:"Font Awesome 5 Brands";font-style:normal;font-weight:400;font-display:block;src:url(fonts/fa-brands-400.eot);src:url(fonts/fa-brands-400.eot?#iefix) format("embedded-opentype"),url(fonts/fa-brands-400.woff2) format("woff2"),url(fonts/fa-brands-400.woff) format("woff"),url(fonts/fa-brands-400.ttf) format("truetype"),url(fonts/fa-brands-400.svg#fontawesome) format("svg")}.fab{font-family:"Font Awesome 5 Brands"}
+@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:400;font-display:block;src:url(fonts/fa-regular-400.eot);src:url(fonts/fa-regular-400.eot?#iefix) format("embedded-opentype"),url(fonts/fa-regular-400.woff2) format("woff2"),url(fonts/fa-regular-400.woff) format("woff"),url(fonts/fa-regular-400.ttf) format("truetype"),url(fonts/fa-regular-400.svg#fontawesome) format("svg")}.fab,.far{font-weight:400;font-style: normal;}
+@font-face{font-family:"Font Awesome 5 Free";font-style:normal;font-weight:900;font-display:block;src:url(fonts/fa-solid-900.eot);src:url(fonts/fa-solid-900.eot?#iefix) format("embedded-opentype"),url(fonts/fa-solid-900.woff2) format("woff2"),url(fonts/fa-solid-900.woff) format("woff"),url(fonts/fa-solid-900.ttf) format("truetype"),url(fonts/fa-solid-900.svg#fontawesome) format("svg")}
+@font-face{font-family:"Font Awesome 4";font-style:normal;font-weight:400;font-display:block;src:url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot);src:url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?#iefix) format("embedded-opentype"),url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2) format("woff2"),url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.woff) format("woff"),url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf) format("truetype"),url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/fonts/fontawesome-webfont.svg#fontawesome) format("svg")}
+.fa,.far,.fas{font-family:"Font Awesome 5 Free"}.fa,.fas{font-weight:900}
+
+.star-icon {
+    color: #ffcc1c;
+    font-size: 1rem;
+    margin: 0 -2px;
+}
+
+.fa, .far, .fas {
+    font-family: "Font Awesome 5 Free";
+	font-style: normal;
+    margin: auto 5px;
+}
+
+.fa-search::before {
+    content: "\f002";
+}
+.fa-searchFull::before {
+    content: "\f00e";
+}
+.fa-user::before {
+    content: "\f2bd";
+}
+.fa-angle-down::before {
+    content: "\f107";
+}
+.fa-shopping-cart::before {
+    content: "\f290";
+}
+.fa-shopping-full::before {
+    content: "\f291";
+}
+.fa-price::before {
+    content: "\f02c";
+}
+
+.fa-dollar::before {
+    content: "\f155";
+}
+.fa-chevron-down::before {
+    content: "\f078";
+}
+.fa-chevron-right::before {
+    content: "\f054";
+}
+.fa-chevron-left::before {
+    content: "\f053";
+}
+.fa-heart::before {
+    content: "\f004";
+}
+.fa-instagram::before {
+    content: "\f16d";
+}
+.fa-copy::before {
+    content: "\f0c5";
+}
+.fa-star::before {
+    content: "\f005";
+}
+.fa-truck::before {
+    content: "\f0d1";
+}
+.fa-filter::before {
+    content: "\f0b0";
+}
+.fa-check-circle::before {
+    content: "\f058";
+}
+.fa-map-marker::before {
+    content: "\f3c5";
+}
+.fa-portal::before {
+    content: "\e155";
+}
+.fa-map-o::before {
+    content: "\f279";
+}
+.fa-phone::before {
+    content: "\f095";
+}
+.fa-post::before {
+    content: "\f2c2";
+}
+.fa-twitter::before{content:"\f099";}
+.fa-facebook::before{content:"\f09a"}
+.fa-telegram::before{content:"\f3fe"}
+.fa-whatsapp::before{content:"\f232"}
+
+.colorSelected::after{
+    content: "\f2c0";
+	font-family: "Font Awesome 4";
+	font-size:18px;
+}
